@@ -10,7 +10,7 @@ apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
 apt install imagemagick -y
-git clone https://github.com/Nurutomo/wabot-aq
+git clone https://github.com/riy4nb0tz/wabot-aq
 cd wabot-aq
 npm install
 ```
@@ -25,7 +25,7 @@ npm install
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/Nurutomo/wabot-aq
+git clone https://github.com/riy4nb0tz/wabot-aq
 cd wabot-aq
 npm install
 ```
